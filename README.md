@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedansar98775" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedansar98775?logo=twitter&style=for-the-badge" alt="ahmedansar98775" /></a> </p>
 
-- 🌱 I’m currently learning **NODE JS**
+- 🌱 I’m currently work on **NODE JS**
 
 - 💬 Ask me about **React,Mongodb,Node js,Express js,My Sql,Js**
 

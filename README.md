@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sufyan Ahmed</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer | Problem Solver | Tech Explorer</h3>
+<h3 align="center">🚀 Passionate Software Developer | Problem Solver | Tech Explorer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%92%BB;Node.js+%7C+React+%7C+MongoDB;DSA+%7C+System+Design+%7C+AWS+%7C+WebRTC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%92%BB;Node.js+%7C+React+%7C+MongoDB;DSA+%7C+System+Design+%7C+AWS+%7C+WebRTC" alt="Typing SVG" />
 </div>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="380"/>
@@ -10,19 +10,16 @@
 <br>
 
 - 🔭 I’m currently working with **Node.js & WebRTC**
-- 🌱 Currently learning **System Design & AWS**
+- 🌱 Currently learning **System Design, AWS, Docker**
 - 🧠 Strong in **DSA, OOP, RDBMS**
 - 💬 Ask me about **React, MongoDB, Express, MySQL, JS**
-- 📫 Reach me at **csc21s135@gmail.com**
-- ⚡ Fun fact: *I have a great sense of humor!* 😄
-
+- 📫 Reach me at **sufyanahmedansare@gmail.com**
+  
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/ahmedansar98775" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/ahmedansarisufyan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.leetcode.com/csc21s135" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/csc212d7q" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
@@ -39,6 +36,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
@@ -66,7 +65,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed1sufyan&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ahmed1sufyan&theme=tokyonight" alt="streak"/>
 </div>
 
 ---

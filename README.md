@@ -62,14 +62,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ahmed1sufyan&theme=tokyonight" alt="streak"/>
-</div>
-
----
-
 ## 🧠 Fun Quote
 
 > *“Code is like humor. When you have to explain it, it’s bad.”*

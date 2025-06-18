@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Software Developer | Problem Solver | Tech Explorer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%92%BB;Node.js+%7C+React+%7C+MongoDB;DSA+%7C+System+Design+%7C+AWS+%7C+WebRTC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%92%BB;Node.js+%7C+React+%7C+MongoDB;DSA+%7C+System+Design+%7C+AWS+%7C+WebRTC " alt="Typing SVG" />
 </div>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="380"/>

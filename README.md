@@ -1,34 +1,80 @@
 <h1 align="center">Hi 👋, I'm Sufyan Ahmed</h1>
-<h3 align="center">A passionate Mern Stack developer</h3>
+<h3 align="center">🚀 Passionate MERN Stack Developer | Problem Solver | Tech Explorer</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%92%BB;Node.js+%7C+React+%7C+MongoDB;DSA+%7C+System+Design+%7C+AWS+%7C+WebRTC" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed1sufyan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed1sufyan" /> </p>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="380"/>
 
-<p align="left"> <a href="https://twitter.com/ahmedansar98775" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedansar98775?logo=twitter&style=for-the-badge" alt="ahmedansar98775" /></a> </p>
+<br>
 
-- 🌱 I’m currently work on **NODE JS**
+- 🔭 I’m currently working with **Node.js & WebRTC**
+- 🌱 Currently learning **System Design & AWS**
+- 🧠 Strong in **DSA, OOP, RDBMS**
+- 💬 Ask me about **React, MongoDB, Express, MySQL, JS**
+- 📫 Reach me at **csc21s135@gmail.com**
+- ⚡ Fun fact: *I have a great sense of humor!* 😄
 
-- 💬 Ask me about **React,Mongodb,Node js,Express js,My Sql,Js**
+---
 
-- 📫 How to reach me **csc21s135@gmail.com**
+## 🌐 Connect with Me
 
-- ⚡ Fun fact **I've good sense of humour**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmedansar98775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedansar98775" height="30" width="40" /></a>
-<a href="https://fb.com/سفیان أنصاري" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="سفیان أنصاري" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmedansarisufyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedansarisufyan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/csc21s135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="csc21s135" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/csc212d7q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="csc212d7q" height="30" width="40" /></a>
+  <a href="https://twitter.com/ahmedansar98775" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/ahmedansarisufyan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/csc21s135" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/csc212d7q" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed1sufyan&show_icons=true&locale=en&layout=compact" alt="ahmed1sufyan" /></p>
+## 🛠️ Skills & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed1sufyan&show_icons=true&locale=en" alt="ahmed1sufyan" /></p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![OOP](https://img.shields.io/badge/-OOP-blueviolet?style=flat-square)
+![DSA](https://img.shields.io/badge/-DSA-teal?style=flat-square)
+![WebRTC](https://img.shields.io/badge/-WebRTC-lightblue?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io)
+![Appwrite](https://img.shields.io/badge/-Appwrite-EF2D5E?style=flat-square&logo=appwrite)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed1sufyan&" alt="ahmed1sufyan" /></p>
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed1sufyan&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1sufyan&layout=compact&theme=tokyonight" height="170"/>
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed1sufyan&theme=tokyonight" />
+</div>
+
+---
+
+## 🧠 Fun Quote
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*
+
+---
+
+## 💡 Let's Build Something Amazing Together!
